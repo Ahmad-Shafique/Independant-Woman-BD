@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Swabolombi Naari</string>
+    <string name="app_name">Independent Women</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 </resources>
